@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-hyper-real-optimizer-run-bzm",
+  "version": "1.0.0",
+  "description": "Event-driven processing engine",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "hyper-real-optimizer-run-bzm"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-hyper-real-optimizer-run-bzm.git"
+  }
+}
